@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "580467274378",
+    "firebase_url": "https://restaurantapp-e1d22.firebaseio.com",
+    "project_id": "restaurantapp-e1d22",
+    "storage_bucket": "restaurantapp-e1d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580467274378:android:5eeb24a5043e2de1",
+        "android_client_info": {
+          "package_name": "com.example.dani.restaurantapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580467274378-2sght4k72vksaipfqgau0ud5lqj7hsho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dani.restaurantapp",
+            "certificate_hash": "18a0cfca1a2f01eda5c1276125a748e844862a38"
+          }
+        },
+        {
+          "client_id": "580467274378-u6vjad8ua5rej7tcfbddd2dvhfi0fcu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXv8yRSniP8Wz7GwdFUTqPuFd_OB5SAI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580467274378-u6vjad8ua5rej7tcfbddd2dvhfi0fcu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

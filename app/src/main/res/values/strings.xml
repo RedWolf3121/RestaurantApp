@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña </string>
+    <string name="action_sign_in">Iniciar Sesion</string>
+    <string name="action_register">Registrarse</string>
+    <string name="name">Nombre</string>
+    <string name="surname">Apellidos</string>
+    <string name="tel">Telefono</string>
+    <string name="action_settings">Ajustes</string>
+</resources>
